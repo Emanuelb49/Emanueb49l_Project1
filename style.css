@@ -1,0 +1,44 @@
+#header-1{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar{
+    display:flex;
+    justify-content: center;
+    gap:50px;
+    margin-top:20px;
+    background-color: midnightblue;
+    padding:20px;
+   
+}
+#about{
+    background-color: red;
+    height: 600px;
+}
+#projects{
+    background-color: blue;
+    height:600px;
+}
+#hobbies{
+    background-color:green;
+    height:600px;
+}
+#contact{
+    background-color: yellow;
+    height:600px;
+}
+.about-content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.interests-content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
